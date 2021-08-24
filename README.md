@@ -1,2 +1,3 @@
-# agdt-rdl
-Java for Research Data Management code for Research Data Leeds.
+# agdt-java-project-ResearchDataLeeds
+
+Research Data Management code for Research Data Leeds.
